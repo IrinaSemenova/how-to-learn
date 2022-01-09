@@ -1,0 +1,10 @@
+.table__text_theme_dark {
+  line-height: 1.2;
+  font-size: 18px;
+  margin: 20px auto 0;
+  color: white;
+}
+
+.table__text_theme_dark:not(:last-child) {
+  margin-top: 0;
+}
