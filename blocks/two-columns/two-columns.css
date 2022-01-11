@@ -1,7 +1,6 @@
 .two-columns {
   margin: 100px auto 0px;
   width: 80%;
-  min-height: 100px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;

@@ -5,7 +5,6 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustation/header__main-illustation.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
-@import url(../blocks/rotation/__header/rotation__header.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/logo/logo.css);
@@ -50,7 +49,6 @@
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/rotation/__kaufman/rotation__kaufman.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
@@ -59,6 +57,7 @@
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__logo-link/resources__logo-link.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
